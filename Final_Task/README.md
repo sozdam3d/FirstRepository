@@ -1,12 +1,10 @@
 # Финальное задание
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/sozdam3d/FirstRepository/tree/master/Final_Task#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/sozdam3d/FirstRepository/tree/master/Final_Task#какой-кейс-решаем)  
+[3. Результат](https://github.com/sozdam3d/FirstRepository/tree/master/Final_Task#результаты)    
+[4. Выводы](https://github.com/sozdam3d/FirstRepository/tree/master/Final_Task#выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за менее 20 попыток.
